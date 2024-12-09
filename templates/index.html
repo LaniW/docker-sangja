@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>molae sangja</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/styles.css') }}"> 
+    <link rel="shortcut icon" href="/static/favicon.ico">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>molae sangja</h1>
+            <p class="description">An Interactive English-to-Korean Translation Tool with Context-Sensitive Prompt Engineering.</p>
+        </div>
+        <div class="content">
+            <!-- Left Section -->
+            <div class="left-section">
+                <div class="input-group">
+                    <textarea id="prompt-input" class="auto-expand" placeholder="Prompt Here"></textarea>
+                </div>
+
+                <div class="navigation">
+                    <button class="left-arrow arrow-button">❮</button>
+                    <span id="english-prompt-left" class="prompt">I'm not a student.</span>
+                    <button class="right-arrow arrow-button">❯</button>
+                </div>
+
+                <div class="translation">
+                    <p id="adaptive-korean" class="text">저는 학생이 아니에요.</p>
+                    <p class="score">BLEU Score: <span id="adaptive-score">0.7</span></p>
+                </div>
+            </div>
+
+            <div class="divider"></div>
+
+            <!-- Right Section -->
+            <div class="right-section">
+                
+                <h2 class="instruction">Translate the following from English to Korean:</h2>
+                <span id="english-prompt-right" class="prompt">I'm not a student.</span>
+                <p id="basic-korean" class="text">나는 학생이 아니다.</p>
+                <p class="score">BLEU Score: <span id="basic-score">0.3</span></p>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='scripts/script.js') }}"></script>
+</body>
+</html>

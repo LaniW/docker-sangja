@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 2px solid #ddd;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Content Section */
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Left Section */
+.left-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.input-group {
+    width: 90%; 
+    max-width: 600px; 
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+
+  .auto-expand {
+    width: 100%; 
+    min-height: 150px; 
+    resize: none; 
+    overflow-y: auto; 
+    border: 2px solid #000;
+    border-radius: 10px; 
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1.5;
+    transition: height 0.2s ease; 
+  }
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.arrow-button {
+    background: none;
+    border: none;
+    color: #007bff;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.arrow-button:hover {
+    color: #0056b3;
+}
+
+.prompt {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.translation {
+    text-align: center;
+}
+
+.translation .text {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.translation .score {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.translation .score span {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Divider */
+.divider {
+    width: 2px;
+    background-color: #ddd;
+    height: 100%;
+}
+
+/* Right Section */
+.right-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+}
+
+.right-section .text {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.right-section .score {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.right-section .score span {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Responsive Padding */
+body {
+    padding-left: 40px;
+    padding-right: 40px;
+}

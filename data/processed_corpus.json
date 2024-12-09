@@ -1,0 +1,502 @@
+[
+    {
+        "english": "Hello.",
+        "korean": "안녕하세요?"
+    },
+    {
+        "english": "Hello.",
+        "korean": "네, 안녕하세요?"
+    },
+    {
+        "english": "I'm Yooyang.",
+        "korean": "저는 유양이에요."
+    },
+    {
+        "english": "I'm Kim, Woobin.",
+        "korean": "저는 김우빈이에요."
+    },
+    {
+        "english": "Ms. Yooyang, are you Chinese?",
+        "korean": "유양 씨는 중국 사람이에요?"
+    },
+    {
+        "english": "Yes, I am Chinese.",
+        "korean": "네, 저는 중국 사람이에요."
+    },
+    {
+        "english": "Are you a student?",
+        "korean": "학생이에요?"
+    },
+    {
+        "english": "Yes, I am a student.",
+        "korean": "네, 학생이에요."
+    },
+    {
+        "english": "Mr. Woobin, are you a student?",
+        "korean": "우빈 씨는 학생이에요?"
+    },
+    {
+        "english": "No, I'm not a student.",
+        "korean": "아니요, 저는 학생이 아니에요."
+    },
+    {
+        "english": "Then, are you an office worker?",
+        "korean": "그럼 회사원이에요?"
+    },
+    {
+        "english": "Yes, I'm an office worker.",
+        "korean": "네, 회사원이에요."
+    },
+    {
+        "english": "Who is that person?",
+        "korean": "저 사람은 누구예요?"
+    },
+    {
+        "english": "That person is Ms. Huong.",
+        "korean": "저 사람은 흐엉 씨예요."
+    },
+    {
+        "english": "Is she Vietnamese?",
+        "korean": "베트남 사람이에요?"
+    },
+    {
+        "english": "Yes, she is Vietnamese.",
+        "korean": "네, 베트남 사람이에요."
+    },
+    {
+        "english": "Who is Mr. Daniel?",
+        "korean": "다니엘 씨는 누구예요?"
+    },
+    {
+        "english": "Mr. Daniel is Steve's younger brother.",
+        "korean": "다니엘 씨는 스티브 씨의 남동생이에요."
+    },
+    {
+        "english": "Mr. Woobin, is Mr. Daniel your friend?",
+        "korean": "다니엘 씨는 우빈 씨의 친구예요?"
+    },
+    {
+        "english": "Yes, Mr. Daniel is my friend.",
+        "korean": "네, 다니엘 씨는 제 친구예요."
+    },
+    {
+        "english": "Is Mr. Steve an office worker?",
+        "korean": "스티브 씨는 회사원이에요?"
+    },
+    {
+        "english": "No, he isn't an office worker. He is a doctor.",
+        "korean": "아니요, 회사원이 아니에요. 의사예요."
+    },
+    {
+        "english": "Then, who is an office worker?",
+        "korean": "그럼 누가 회사원이에요?"
+    },
+    {
+        "english": "Ms. Huong is an office worker.",
+        "korean": "흐엉 씨가 회사원이에요."
+    },
+    {
+        "english": "Ms. Yooyang, is your house an apartment?",
+        "korean": "유양 씨의 집은 아파트예요?"
+    },
+    {
+        "english": "Yes, it is.",
+        "korean": "네, 아파트예요."
+    },
+    {
+        "english": "What is the name of your apartment?",
+        "korean": "아파트의 이름이 뭐예요?"
+    },
+    {
+        "english": "It is Yonsei Apartment.",
+        "korean": "연세 아파트예요."
+    },
+    {
+        "english": "This is my apartment.",
+        "korean": "여기가 우리 아파트예요."
+    },
+    {
+        "english": "What is that?",
+        "korean": "저것이 뭐예요?"
+    },
+    {
+        "english": "That is a fitness club. The fitness club is very large.",
+        "korean": "헬스클럽이에요. 헬스클럽이 아주 넓어요."
+    },
+    {
+        "english": "Ms. Yooyang, where do you live?",
+        "korean": "유양 씨의 집은 어디예요?"
+    },
+    {
+        "english": "I live right there.",
+        "korean": "바로 저기예요."
+    },
+    {
+        "english": "How is your house?",
+        "korean": "집이 어때요?"
+    },
+    {
+        "english": "My house is small.",
+        "korean": "집이 작아요."
+    },
+    {
+        "english": "Ms. Yooyang, is that your room?",
+        "korean": "저기가 유양 씨의 방이에요?"
+    },
+    {
+        "english": "Yes, it's my room.",
+        "korean": "네, 제 방이에요."
+    },
+    {
+        "english": "Is your room bright?",
+        "korean": "방이 밝아요?"
+    },
+    {
+        "english": "Yes, it's bright. There is a window in the room.",
+        "korean": "네, 밝아요. 방에 창문이 있어요."
+    },
+    {
+        "english": "Is there a pet in your house?",
+        "korean": "집에 애완동물이 있어요?"
+    },
+    {
+        "english": "Yes, there is a cat.",
+        "korean": "네, 고양이가 있어요."
+    },
+    {
+        "english": "How is your cat?",
+        "korean": "고양이가 어때요?"
+    },
+    {
+        "english": "It's cute.",
+        "korean": "귀여워요."
+    },
+    {
+        "english": "Is there a veranda in your house?",
+        "korean": "집에 베란다가 있어요?"
+    },
+    {
+        "english": "Yes, there is.",
+        "korean": "네, 있어요."
+    },
+    {
+        "english": "Is there a chair on the veranda?",
+        "korean": "베란다에 의자가 있어요?"
+    },
+    {
+        "english": "No, there is no chair on the veranda.",
+        "korean": "아니요, 베란다에 의자가 없어요."
+    },
+    {
+        "english": "Where is your company?",
+        "korean": "회사가 어디에 있어요?"
+    },
+    {
+        "english": "It is in Yeouido.",
+        "korean": "여의도에 있어요."
+    },
+    {
+        "english": "Is your company big?",
+        "korean": "회사가 커요?"
+    },
+    {
+        "english": "Yes, it's big.",
+        "korean": "네, 커요."
+    },
+    {
+        "english": "Where is the elevator?",
+        "korean": "엘리베이터는 어디에 있어요?"
+    },
+    {
+        "english": "The elevator is over there.",
+        "korean": "엘리베이터는 저쪽에 있어요."
+    },
+    {
+        "english": "Are there many elevators in your company?",
+        "korean": "회사에 엘리베이터가 많아요?"
+    },
+    {
+        "english": "Yes, there are.",
+        "korean": "네, 많아요."
+    },
+    {
+        "english": "Are there lounges in your company?",
+        "korean": "회사에 휴게실이 있어요?"
+    },
+    {
+        "english": "Yes, there are.",
+        "korean": "네, 있어요."
+    },
+    {
+        "english": "Where are the lounges?",
+        "korean": "휴게실이 어디에 있어요?"
+    },
+    {
+        "english": "The lounges are on the fifth and tenth floors.",
+        "korean": "휴게실은 오 층하고 십 층에 있어요."
+    },
+    {
+        "english": "Is there a copy machine in the office?",
+        "korean": "사무실에 복사기가 있어요?"
+    },
+    {
+        "english": "Yes, there is.",
+        "korean": "네, 있어요."
+    },
+    {
+        "english": "Where is the copy machine?",
+        "korean": "복사기가 어디에 있어요?"
+    },
+    {
+        "english": "The copy machine is in front of the window.",
+        "korean": "복사기는 창문 앞에 있어요."
+    },
+    {
+        "english": "Are there many desks in the office?",
+        "korean": "사무실에 책상이 많아요?"
+    },
+    {
+        "english": "Yes, there are. There are twenty desks in the office.",
+        "korean": "네, 많아요. 사무실에 책상이 스무 개 있어요."
+    },
+    {
+        "english": "Are there many employees?",
+        "korean": "직원이 많아요?"
+    },
+    {
+        "english": "Yes, there are.",
+        "korean": "네, 많아요."
+    },
+    {
+        "english": "How many employees are there in the office?",
+        "korean": "사무실에 직원이 몇 명 있어요?"
+    },
+    {
+        "english": "There are twenty employees.",
+        "korean": "스무 명 있어요."
+    },
+    {
+        "english": "How many foreigners are there?",
+        "korean": "외국 사람은 몇 명 있어요?"
+    },
+    {
+        "english": "There are two foreigners.",
+        "korean": "두 명 있어요."
+    },
+    {
+        "english": "Ms. Yooyang, do you have a younger sisters?",
+        "korean": "유양 씨는 여동생이 있어요?"
+    },
+    {
+        "english": "Yes, I have a younger sister.",
+        "korean": "네, 저는 여동생이 있어요."
+    },
+    {
+        "english": "Is your younger sister a student?",
+        "korean": "여동생이 학생이에요?"
+    },
+    {
+        "english": "Yes, she is a student.",
+        "korean": "네, 학생이에요."
+    },
+    {
+        "english": "Mr. Woobin, do you have a younger sister?",
+        "korean": "우빈 씨는 여동생이 있어요?"
+    },
+    {
+        "english": "Yes, I have.",
+        "korean": "네, 있어요."
+    },
+    {
+        "english": "Do you have an elder sister, too?",
+        "korean": "누나도 있어요?"
+    },
+    {
+        "english": "Yes, I have an older sister, too.",
+        "korean": "네, 누나도 있어요."
+    },
+    {
+        "english": "Mr. Woobin, is your elder sister an office worker?",
+        "korean": "우빈 씨 누나는 회사원이에요?"
+    },
+    {
+        "english": "Yes, she is an office worker.",
+        "korean": "네, 우리 누나는 회사원이에요."
+    },
+    {
+        "english": "How is her personality?",
+        "korean": "성격이 어때요?"
+    },
+    {
+        "english": "She is outgoing.",
+        "korean": "성격이 활발해요."
+    },
+    {
+        "english": "Mr. Woobin, do you have a girlfriend?",
+        "korean": "우빈 씨는 여자 친구가 있어요?"
+    },
+    {
+        "english": "Yes, I have.",
+        "korean": "네, 있어요."
+    },
+    {
+        "english": "Is she an office worker, too?",
+        "korean": "여자 친구도 회사원이에요?"
+    },
+    {
+        "english": "No, my girlfriend is a student.",
+        "korean": "아니요, 여자 친구는 학생이에요."
+    },
+    {
+        "english": "Mr. Woobin, how old is your girlfriend?",
+        "korean": "우빈 씨 여자 친구는 몇 살이에요?"
+    },
+    {
+        "english": "She is twenty-three years old.",
+        "korean": "스물세 살이에요."
+    },
+    {
+        "english": "Mr. Woobin, how tall is your girlfriend?",
+        "korean": "우빈 씨 여자 친구는 어때요?"
+    },
+    {
+        "english": "My girlfriend is tall.",
+        "korean": "제 여자 친구는 키가 커요."
+    },
+    {
+        "english": "Mr. Woobin, do you meet your girlfriend often?",
+        "korean": "우빈 씨는 여자 친구를 자주 만나요?"
+    },
+    {
+        "english": "Yes, I meet her often.",
+        "korean": "네, 자주 만나요."
+    },
+    {
+        "english": "What do you do?",
+        "korean": "무엇을 해요?"
+    },
+    {
+        "english": "We watch movies together.",
+        "korean": "같이 영화를 봐요."
+    },
+    {
+        "english": "Ms. Yooyang, do you read books often?",
+        "korean": "유양 씨는 책을 자주 읽어요?"
+    },
+    {
+        "english": "Yes, I read novels often.",
+        "korean": "네, 소설책을 자주 읽어요."
+    },
+    {
+        "english": "Where do you usually read books?",
+        "korean": "보통 어디에서 책을 읽어요?"
+    },
+    {
+        "english": "I usually read books at coffee shops.",
+        "korean": "커피숍에서 책을 읽어요."
+    },
+    {
+        "english": "Mr. Woobin, what movies do you like?",
+        "korean": "우빈 씨는 무슨 영화를 좋아해요?"
+    },
+    {
+        "english": "I like horror movies.",
+        "korean": "저는 공포 영화를 좋아해요."
+    },
+    {
+        "english": "How about comedies?",
+        "korean": "코미디 영화는 어때요?"
+    },
+    {
+        "english": "I like them, too.",
+        "korean": "그것도 좋아해요."
+    },
+    {
+        "english": "Ms. Yooyang, what you do want to learn?",
+        "korean": "유양 씨는 무엇을 배우고 싶어요?"
+    },
+    {
+        "english": "I want to learn sports.",
+        "korean": "저는 운동을 배우고 싶어요."
+    },
+    {
+        "english": "What sports do you want to learn?",
+        "korean": "무슨 운동을 배우고 싶어요?"
+    },
+    {
+        "english": "I want to learn tennis.",
+        "korean": "테니스를 배우고 싶어요."
+    },
+    {
+        "english": "Is there a tennis court near here?",
+        "korean": "이 근처에 테니스장이 있어요?"
+    },
+    {
+        "english": "Yes, there is. Why?",
+        "korean": "네, 있어요. 왜요?"
+    },
+    {
+        "english": "Ms. Yooyang wants to learn tennis.",
+        "korean": "유양 씨가 테니스를 배우고 싶어 해요."
+    },
+    {
+        "english": "There is a tennis court next to the school.",
+        "korean": "학교 옆에 테니스장이 있어요."
+    },
+    {
+        "english": "Ms. Yooyang, do you travel often?",
+        "korean": "유양 씨는 여행을 자주 해요?"
+    },
+    {
+        "english": "No, I don't travel often.",
+        "korean": "아니요, 여행을 자주 하지 않아요."
+    },
+    {
+        "english": "Why don't you travel often?",
+        "korean": "왜 자주 하지 않아요?"
+    },
+    {
+        "english": "Because I don’t have much time.",
+        "korean": "시간이 없어요."
+    },
+    {
+        "english": "What do you usually do at home?",
+        "korean": "집에서 보통 무엇을 해요?"
+    },
+    {
+        "english": "I often listen to music.",
+        "korean": "저는 음악을 자주 들어요."
+    },
+    {
+        "english": "Do you also listen to classical music?",
+        "korean": "클래식 음악도 들어요?"
+    },
+    {
+        "english": "No, I don't like classical music. So I don't listen to it often.",
+        "korean": "아니요, 저는 클래식 음악을 안 좋아해요. 그래서 자주 안 들어요."
+    },
+    {
+        "english": "What time it is now?",
+        "korean": "지금 몇 시예요?"
+    },
+    {
+        "english": "It's 10:30 am.",
+        "korean": "오전 열 시 삼십 분이에요."
+    },
+    {
+        "english": "When is your lunch time?",
+        "korean": "점심시간은 언제예요?"
+    },
+    {
+        "english": "It's at twelve.",
+        "korean": "열두 시예요."
+    },
+    {
+        "english": "What do you do in the evening?",
+        "korean": "저녁에 무엇을 해요?"
+    },
+    {
+        "english": "I eat dinner and watch TV.",
+        "korean": "식사를 해요. 그리고 TV를 봐요."
+    }
+]
